@@ -3,13 +3,6 @@ CERBERUS is a multi-vector automated wireless security auditor — the hound tha
 
 
 
-[06:42:39] * checking for wireless device . , .. , ...
-[06:42:41] + found #3 devices
-[06:43:08] $ SUCCESS! PASSWORD FOUND from wifi_rumah [Cont0hPassword123]
-⚠️ LEGAL WARNING
-
-
-
 ┌─────────────────────────────────────────────────────────────────┐
 │  THIS SOFTWARE IS FOR AUTHORIZED SECURITY TESTING ONLY          │
 ├─────────────────────────────────────────────────────────────────┤
@@ -123,13 +116,13 @@ bash
 
 
 # Download
-git clone https://github.com/your-username/cerberus.git
+git clone https://github.com/sabda/CERBERUS-Advanced-Wireless-Security-Audit-Framework.git
 cd cerberus
 chmod +x cerberus.py
 
 # Or single-file
-wget https://raw.githubusercontent.com/your-username/cerberus/main/cerberus.py
-chmod +x cerberus.py
+wget https://raw.githubusercontent.com/sabda556/CERBERUS.py
+chmod +x CERBERUS.py
 
 # Run
 sudo python3 cerberus.py
